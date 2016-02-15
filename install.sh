@@ -10,7 +10,7 @@ ruby_ver='2.2.2'
 export DEBIAN_FRONTEND=noninteractive
 sudo apt-get install -y zsh git openssl libqt4-dev \
  autoconf bison build-essential libssl-dev libyaml-dev libreadline6 libreadline6-dev zlib1g zlib1g-dev libffi-dev \
- nodejs
+ nodejs r-base
 
 # install configs you like
 # relog
